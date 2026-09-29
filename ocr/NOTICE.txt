@@ -1,0 +1,4 @@
+Motor Tesseract.js 7.0.0 e Tesseract.js-core: licenças Apache-2.0 nos arquivos adjacentes.
+Idioma português: @tesseract.js-data/por@1.0.0/4.0.0_best_int/por.traineddata.gz (dados Tesseract).
+Origem: https://cdn.jsdelivr.net/npm/@tesseract.js-data/por@1.0.0/4.0.0_best_int/por.traineddata.gz
+Arquivos incluídos para processamento local no navegador, sem API OCR externa.
